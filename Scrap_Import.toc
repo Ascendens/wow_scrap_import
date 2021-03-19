@@ -1,0 +1,13 @@
+## Interface: 90005
+## Title: Scrap Import
+## Notes: Allows to add group of items into the junk list.
+
+## Author: Kagrayz
+## X-License: GNU General Public License Version 3
+## X-Category: Inventory
+## Dependencies: Scrap
+## Version: 1.0.0
+## X-Embeds: Ace3
+
+app/embeds.xml
+app/core.lua
