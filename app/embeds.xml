@@ -4,4 +4,5 @@
     <Include file=".\..\vendors\AceAddon-3.0\AceAddon-3.0.xml"/>
     <Include file=".\..\vendors\AceConsole-3.0\AceConsole-3.0.xml"/>
     <Include file=".\..\vendors\AceGUI-3.0\AceGUI-3.0.xml"/>
+    <Include file=".\..\vendors\AceLocale-3.0\AceLocale-3.0.xml"/>
 </Ui>

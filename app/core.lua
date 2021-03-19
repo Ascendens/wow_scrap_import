@@ -19,6 +19,7 @@ Scrap_Import = LibStub("AceAddon-3.0"):NewAddon("Scrap_Import", "AceConsole-3.0"
 
 local Scrap = Scrap;
 local AceGUI = LibStub("AceGUI-3.0")
+local L = LibStub("AceLocale-3.0"):GetLocale("Scrap_Import")
 
 --- Import item
 local function importItem(id)
@@ -65,11 +66,11 @@ end
 local function showImportFrame()
     local frame = AceGUI:Create("Frame")
     frame:SetTitle("Scrap Import")
-    frame:SetStatusText("Insert list of IDs into the edit box")
+    frame:SetStatusText(L["Insert list of IDs into the edit box"])
     frame:SetLayout("Fill")
 
     local editbox = AceGUI:Create("MultiLineEditBox")
-    editbox:SetLabel("Insert item IDs:")
+    editbox:SetLabel(L["Insert item IDs"])
     editbox:SetCallback("OnEnterPressed", import)
     frame:AddChild(editbox)
 end
