@@ -5,3 +5,6 @@
 * Added readme
 * Added changelog
 * Interface number updated to 9.1.0
+
+##### 0.1.2
+* Added CurseForge packaging configuration

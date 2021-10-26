@@ -1,0 +1,4 @@
+ignore:
+  - tutorial
+
+manual-changelog: CHANGELOG.md
