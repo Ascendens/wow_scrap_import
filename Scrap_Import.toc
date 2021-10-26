@@ -1,4 +1,4 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: Scrap Import
 ## Notes: Allows to add group of items into the junk list.
 
