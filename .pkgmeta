@@ -1,4 +1,6 @@
 ignore:
   - tutorial
+  - CHANGELOG.md
+  - LICENSE
 
 manual-changelog: CHANGELOG.md
