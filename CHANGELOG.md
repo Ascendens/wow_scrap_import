@@ -1,3 +1,6 @@
+##### 0.1.5
+* Interface version updated to 10.0.2
+
 ##### 0.1.4
 * Interface version updated to 9.2.0
 * AceGUI DropDown Widget updated
