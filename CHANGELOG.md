@@ -1,3 +1,7 @@
+##### 0.1.6
+* Interface version updated to 10.0.5
+* AceAddon, AceConsole, AceGUI, AceLocale updated
+
 ##### 0.1.5
 * Interface version updated to 10.0.2
 
