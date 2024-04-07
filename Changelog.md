@@ -1,3 +1,6 @@
+#### 0.1.11
+* Interface version updated to 10.2.6
+
 #### 0.1.10
 * Interface version updated to 10.2.5
 

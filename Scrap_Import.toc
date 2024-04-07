@@ -1,4 +1,4 @@
-## Interface: 100205
+## Interface: 100206
 ## Title: Scrap Import
 ## Notes: Allows to add group of items into the junk list.
 
@@ -6,7 +6,7 @@
 ## X-License: GNU General Public License Version 3
 ## X-Category: Inventory
 ## Dependencies: Scrap
-## Version: 0.1.10
+## Version: 0.1.11
 ## X-Embeds: Ace3
 
 app/embeds.xml
